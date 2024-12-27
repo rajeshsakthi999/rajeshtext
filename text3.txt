@@ -1,0 +1,4 @@
+this is text3.txt file 
+after add
+next commit 
+And finally push
