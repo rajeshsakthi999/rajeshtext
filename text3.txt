@@ -1,4 +1,3 @@
-this is text3.txt file 
-after add
-next commit 
-And finally push
+ git add filname -->file  add
+git commit -m "cmmit message " -->next commit 
+git push origin main  -->And finally push
